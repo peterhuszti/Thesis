@@ -1,0 +1,5 @@
+2
+0;0
+unknown
+sin(x1)*cos(x2)-0,25
+sin(x2)*cos(x1)-0,75

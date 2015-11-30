@@ -1,0 +1,5 @@
+2
+1;1
+unknown
+ln(x1+1)+ln(x2-3)-1
+ln(x2-1)-ln(x1)

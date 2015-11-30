@@ -1,0 +1,5 @@
+2
+0,5;0,5
+unknown
+atan(8/x1)-acos((x1+x2)/20)
+atan(8/x2)-acos((x1+x2)/30)
